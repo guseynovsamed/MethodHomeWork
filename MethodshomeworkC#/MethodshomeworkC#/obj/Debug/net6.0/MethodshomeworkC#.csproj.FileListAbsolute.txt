@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\bin\Debug\net6.0\MethodshomeworkC#.exe
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\bin\Debug\net6.0\MethodshomeworkC#.deps.json
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\bin\Debug\net6.0\MethodshomeworkC#.runtimeconfig.json
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\bin\Debug\net6.0\MethodshomeworkC#.dll
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\bin\Debug\net6.0\MethodshomeworkC#.pdb
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.dll
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\refint\MethodshomeworkC#.dll
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.pdb
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\MethodshomeworkC#.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\MethodsHomework\MethodshomeworkC#\MethodshomeworkC#\obj\Debug\net6.0\ref\MethodshomeworkC#.dll
